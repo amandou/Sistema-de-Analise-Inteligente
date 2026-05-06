@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# .gitignore
+*.db
+
 # C extensions
 *.so
 
