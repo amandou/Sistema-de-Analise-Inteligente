@@ -149,4 +149,4 @@ O banco foi desenvolvido inteiramente em **MySQL** utilizando nomenclatura em **
 1: bom
 
 --------------------------------------------------------------------------------------------------------
-*Projeto criado para fins de portfólio de engenharia e análise de dados. *
+
